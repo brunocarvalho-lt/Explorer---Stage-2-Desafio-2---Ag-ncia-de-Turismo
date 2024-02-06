@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="Agência de Turismo" src="Agência de Turismo.png" width="100%">
+  <img alt="Agência de Turismo" src="Imagens/Agencia de Turismo.png" width="100%">
 </p>
 
 <p align="center">
