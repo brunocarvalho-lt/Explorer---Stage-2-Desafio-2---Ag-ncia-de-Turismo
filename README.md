@@ -1,11 +1,11 @@
-<h1 align="center"> Stage2, desafio 1 (Rocketseat): Agência de Turismo </h1>
+<h1 align="center"> Explorer Stage2, desafio 2 (Rocketseat): Agência de Turismo </h1>
 
 <p align="center">
   <a href="#memo-licença"></a>
 </p>
 
 <p align="center">
-  <img alt="Agência de Turismo" src="Agencia de Turismo.png" width="100%">
+  <img alt="Agência de Turismo" src="Agência de Turismo.png" width="100%">
 </p>
 
 <p align="center">
